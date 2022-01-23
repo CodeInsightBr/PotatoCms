@@ -2,7 +2,7 @@
 
 Welcome to the PotatoCms!
 
-Go to Wiki
+[Wiki](https://github.com/CodeInsightBr/PotatoCms/wiki)
 
 Em construção
 
